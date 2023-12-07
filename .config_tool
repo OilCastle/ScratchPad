@@ -1,0 +1,4 @@
+make=y
+ninja=n
+
+name=ScratchPad
